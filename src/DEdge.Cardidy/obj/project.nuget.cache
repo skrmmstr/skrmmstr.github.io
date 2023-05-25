@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUv6EJDny95cZt2ASMpcDeiYyMA9h9711/dKNBoefMH7NMwOZmPG0KXJaFrlcoSJ8ymt/V3AB53opJoOaGv8aQ==",
+  "success": true,
+  "projectFilePath": "/home/skrmmstr/Cardidy/src/DEdge.Cardidy/DEdge.Cardidy.csproj",
+  "expectedPackageFiles": [
+    "/home/skrmmstr/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/skrmmstr/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
